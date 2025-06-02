@@ -2,6 +2,7 @@
 
 1.  Mushrooms
 2.  Cheese
+3.  Sausage
 
 # Preparation
 
