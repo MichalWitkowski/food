@@ -10,3 +10,7 @@
 2.  Grate the cheese
 
 # Finally photo
+ photo of chicken
+ photo of chehf
+ photo of boss
+ 
