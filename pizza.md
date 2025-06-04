@@ -11,4 +11,4 @@
 
 # Finally photo
 
-photo of pizza with mushroms
+photo of pizza with pineapple
