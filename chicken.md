@@ -3,3 +3,4 @@
     2. potatoes
 # Preparation
      1. Buy chicken
+     2. Peel potatoes
