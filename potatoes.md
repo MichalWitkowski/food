@@ -1,6 +1,7 @@
 # Ingredients 
 1. Potatoes
 2. cheese
+3. butter
 
 # Preparation 
 1. Buy potatoes
