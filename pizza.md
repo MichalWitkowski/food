@@ -10,3 +10,5 @@
 2.  Grate the cheese
 
 # Finally photo
+
+photo of pizza
